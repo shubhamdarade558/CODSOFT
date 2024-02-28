@@ -1,6 +1,3 @@
-# CODSOFT
-Internship tasks 
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
